@@ -1,0 +1,10 @@
+inherited Form1_Surface: TForm1_Surface
+  ClientHeight = 1920
+  ClientWidth = 1080
+  DesignerMasterStyle = 0
+  inherited Label2: TLabel
+    inherited PointsLabel: TLabel
+      Position.Y = -8.000000000000000000
+    end
+  end
+end
