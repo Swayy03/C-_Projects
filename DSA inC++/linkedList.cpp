@@ -91,7 +91,7 @@ class SinglyLinkedList{
 	else{
 		
 	}
-	////////
+	/////////
 };
 
 int main(){
